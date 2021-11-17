@@ -6,7 +6,7 @@ Software Development of 'SitWithMe' application in order to provide access to pu
 
 <img width="1437" alt="Screen Shot 2021-08-17 at 21 42 28" src="https://user-images.githubusercontent.com/84475121/129782742-9694c188-ccd0-47b9-a331-0022ab555b5c.png">
 
-## Table Of Contents
+## Table of Contents
 - General
   - [Overview](#overview)
   - [Understanding the Problem](#understanding-the-problem)
