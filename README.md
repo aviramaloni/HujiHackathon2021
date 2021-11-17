@@ -4,7 +4,6 @@ Software Development of 'SitWithMe' application in order to provide access to pu
 
 ![HACKATHON LINKEDIN POST](https://user-images.githubusercontent.com/84475121/129782034-dcf6ef95-539a-4a33-bb55-e01968c3145f.png)
 
-<img width="1437" alt="Screen Shot 2021-08-17 at 21 42 28" src="https://user-images.githubusercontent.com/84475121/129782742-9694c188-ccd0-47b9-a331-0022ab555b5c.png">
 
 ## Table of Contents
 - General
@@ -20,6 +19,13 @@ Software Development of 'SitWithMe' application in order to provide access to pu
 - Casing
   - [Costing Method](#costing-method)
   - [Why do the public need us?](#why-do-the-public-need-us)
+
+- Implementation
+  - [How the App Works?](#how-the-app-works)
+  - [Application Development Process](#application-development-process)
+
+- The Team
+  - [About us](#about-us)
 
 ## General
 ### Overview
@@ -53,6 +59,7 @@ Customer-base of companies like WeWork, Regus, Powerball and Urban Place:
 - Students
 - International Businesspeople
 - Workers with insufficient ‘work-from-home’ means
+
 The competition:
 - Spacenter
 - Local Cafes + Libraries
@@ -78,3 +85,30 @@ Centralised Platform consisting of already existing workspaces.
 |Boosts their reputation in the community | Affordable| Reduce Carbon Footprint|
 | | Realtime availability| |
 | |Customized-preference suited | |
+
+## Implementation
+### How the App Works?
+- Powered by Dart 
+- Framework derived from Flutter
+- Compatible with Android and iOS devices 
+
+## Application Development Process
+- Selecting of Software
+  - Suited to aspired goals
+  - Simplicity in Operation - decision on *Flutter*
+
+- Division of Roles
+  - Divided jobs into FrontEnd Developer, BackEnd Developers and Business Development Researcher
+  - Coding and Market Research conducted simultaneously
+
+- Integration
+  - Integration of BackEnd and FrontEnd
+  - Summary of all processes concluded in Google Slides Presentation
+
+- Conclusion
+  - Fixing last-minute bugs and glitches in application
+  - Final Preparation for Presentation
+
+## About us
+
+<img width="1437" alt="Screen Shot 2021-08-17 at 21 42 28" src="https://user-images.githubusercontent.com/84475121/129782742-9694c188-ccd0-47b9-a331-0022ab555b5c.png">
