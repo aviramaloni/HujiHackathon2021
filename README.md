@@ -10,16 +10,16 @@ Software Development of 'SitWithMe' application in order to provide access to pu
 - General
   - [Overview](#overview)
   - [Understanding the Problem](#understanding-the-problem)
-  - [Requirements](#requirements)
+  - [Project Objective](#project-objective)
 
-- How to use
-  - [Installation](#installation)
-  - [Running Through Command Line](#running-through-command-line)
-  - [Running Through PyCharm](#running-through-pycharm)
+- Understanding the Market
+  - [Trend Analysis](#trend-analysis)
+  - [Target Audience](#target-audience)
+  - [What makes us different?](#what-makes-us-different)
  
-- Screenshots
-  - [Openning screen](#openning-screen)
-  - [Game main screen](#game-main-screen)
+- Casing
+  - [Costing Method](#costing-method)
+  - [Why do the public need us?](#why-do-the-public-need-us)
 
 ## General
 ### Overview
@@ -34,7 +34,47 @@ Those who could not work from home were left behind.
 
 McKinsey & Company studied more than 2,000 tasks used in some 800 occupations in the eight focus countries. Considering only remote work that can be done without a loss of productivity, they found that about 20 to 25 percent of the workforces in advanced economies could work from home between three and five days a week. This represents four to five times more remote work than before the pandemic and could prompt a large change in the geography of work, as individuals and companies shift out of large cities into suburbs and small cities.
 
+### Project Objective
+Software Development of *SitWithMe* application in order to provide access to public and private remote workspaces.
 
+## Understanding the Market
+### Trend Analysis
+Coworking spaces have grown by over 1,000 percent over the span of a decade. Back in 2008, there were just 160 coworking spaces worldwide.
+A decade later, there were 18,700 coworking spaces internationally. Within the next year and a half, coworking spaces are forecasted to reach 26,300 spaces worldwide.
+- Built on buying and renting buildings.
+- Turning them into shared office spaces.
+- Renting out space and amenities for a subscription fee.
 
+![image](https://user-images.githubusercontent.com/84475121/142254540-43c0744d-5519-43e9-b187-1c8aeffcd980.png)
 
+### Target Audience
+Customer-base of companies like WeWork, Regus, Powerball and Urban Place:
+- Remote employers and employees
+- Students
+- International Businesspeople
+- Workers with insufficient ‘work-from-home’ means
+The competition:
+- Spacenter
+- Local Cafes + Libraries
+- Already existing shared spaces
 
+### What makes us different
+Centralised Platform consisting of already existing workspaces.
+> Our own unique, untouched element: Private Leased Spaces.
+*HomeToGo* business model - any person with a functional home working space can rent out their room for a self-determined rate
+**Simplicity is key!**
+
+## Casing
+### Costing Method
+- Direct impact of the pricing is the number of bookings you receive
+- Shared Space companies standard pricing
+- Maximum Fill Rate Strategy for privately-leased rooms
+- 3% Commission on all reservations
+
+### Why do the public need us
+| Shared space Companies  | Individual Worker | Regular Company Employer |
+| ------------- | ------------- | - |
+| Increase Demand and accessibility for their facilities eg: Wolt for restaurants | Current Location convenience   | Save funds on monthly rental and maintenance costs  |
+|Boosts their reputation in the community | Affordable| Reduce Carbon Footprint|
+| | Realtime availability| |
+| |Customized-preference suited | |
