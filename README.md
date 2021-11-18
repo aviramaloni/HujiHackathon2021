@@ -1,5 +1,5 @@
 # HujiHackathon2021
-Software Development of 'SitWithMe' application in order to provide access to public and private remote workspaces. Powered by ‘Dart’, with a framework derived from ‘Flutter’.
+Software Development of 'SitWithMe' application in order to provide access to public and private remote workspaces. Powered by *Dart*, with a framework derived from *Flutter*.
 
 > This project was designed and created by Aviram Aloni, Noam Geva, Ari Nailand and Jordan Picker.
 
@@ -90,8 +90,8 @@ Centralised Platform consisting of already existing workspaces.
 
 ## Implementation
 ### How the App Works?
-- Powered by Dart 
-- Framework derived from Flutter
+- Powered by *Dart* 
+- Framework derived from *Flutter*
 - Compatible with Android and iOS devices 
 
 ## Application Development Process
@@ -105,7 +105,7 @@ Centralised Platform consisting of already existing workspaces.
 
 - Integration
   - Integration of BackEnd and FrontEnd
-  - Summary of all processes concluded in Google Slides Presentation
+  - Summary of all processes concluded in *Google Slides* Presentation
 
 - Conclusion
   - Fixing last-minute bugs and glitches in application
