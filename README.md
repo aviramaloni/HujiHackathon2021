@@ -1,6 +1,9 @@
 # HujiHackathon2021
 Software Development of 'SitWithMe' application in order to provide access to public and private remote workspaces. Powered by *Dart*, with a framework derived from *Flutter*.
 
+![Jenkins](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fwso2.org%2Fjenkins%2Fview%2FAll%2520Builds%2Fjob%2Farchetypes)
+
+
 > This project was designed and created by Aviram Aloni, Noam Geva, Ari Nailand and Jordan Picker.
 
 
